@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BatAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: c29d178e5f4a10b4ca7b396cb22de160, type: 3}
+    totalSpriteSurfaceArea: 204611
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 4476084821594243048, guid: c29d178e5f4a10b4ca7b396cb22de160, type: 3}
+  - {fileID: -7610703106435066626, guid: c29d178e5f4a10b4ca7b396cb22de160, type: 3}
+  - {fileID: 8152035136756087800, guid: c29d178e5f4a10b4ca7b396cb22de160, type: 3}
+  - {fileID: 3800871404644214177, guid: c29d178e5f4a10b4ca7b396cb22de160, type: 3}
+  - {fileID: 6764316393182945949, guid: c29d178e5f4a10b4ca7b396cb22de160, type: 3}
+  - {fileID: 5688958195012856026, guid: c29d178e5f4a10b4ca7b396cb22de160, type: 3}
+  - {fileID: -6375248373652375866, guid: c29d178e5f4a10b4ca7b396cb22de160, type: 3}
+  - {fileID: -5944588424114299844, guid: c29d178e5f4a10b4ca7b396cb22de160, type: 3}
+  - {fileID: -6561422096755503609, guid: c29d178e5f4a10b4ca7b396cb22de160, type: 3}
+  - {fileID: 9044757459098797743, guid: c29d178e5f4a10b4ca7b396cb22de160, type: 3}
+  - {fileID: -2687856798032716873, guid: c29d178e5f4a10b4ca7b396cb22de160, type: 3}
+  - {fileID: 5560230811505066439, guid: c29d178e5f4a10b4ca7b396cb22de160, type: 3}
+  - {fileID: -2380155140884951210, guid: c29d178e5f4a10b4ca7b396cb22de160, type: 3}
+  - {fileID: 2937665673381733170, guid: c29d178e5f4a10b4ca7b396cb22de160, type: 3}
+  - {fileID: -8982058808099722483, guid: c29d178e5f4a10b4ca7b396cb22de160, type: 3}
+  - {fileID: 2833883132214527330, guid: c29d178e5f4a10b4ca7b396cb22de160, type: 3}
+  - {fileID: -3106920366007987046, guid: c29d178e5f4a10b4ca7b396cb22de160, type: 3}
+  - {fileID: -4475508443701001020, guid: c29d178e5f4a10b4ca7b396cb22de160, type: 3}
+  - {fileID: -6626399696743837517, guid: c29d178e5f4a10b4ca7b396cb22de160, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - sprite-sheet-121x89_9
+  - sprite-sheet-121x89_8
+  - sprite-sheet-121x89_1
+  - sprite-sheet-121x89_0
+  - sprite-sheet-121x89_3
+  - sprite-sheet-121x89_2
+  - sprite-sheet-121x89_5
+  - sprite-sheet-121x89_4
+  - sprite-sheet-121x89_7
+  - sprite-sheet-121x89_6
+  - sprite-sheet-121x89_18
+  - sprite-sheet-121x89_10
+  - sprite-sheet-121x89_11
+  - sprite-sheet-121x89_12
+  - sprite-sheet-121x89_13
+  - sprite-sheet-121x89_14
+  - sprite-sheet-121x89_15
+  - sprite-sheet-121x89_16
+  - sprite-sheet-121x89_17
+  m_Tag: BatAtlas
+  m_IsVariant: 0

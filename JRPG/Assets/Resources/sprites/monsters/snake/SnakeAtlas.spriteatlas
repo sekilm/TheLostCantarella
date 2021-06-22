@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SnakeAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 54d4c3e86c694194dab1854793c285cf, type: 3}
+    totalSpriteSurfaceArea: 262542
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -6452960137688722746, guid: 54d4c3e86c694194dab1854793c285cf, type: 3}
+  - {fileID: 5716850822166702213, guid: 54d4c3e86c694194dab1854793c285cf, type: 3}
+  - {fileID: 5539079898946531091, guid: 54d4c3e86c694194dab1854793c285cf, type: 3}
+  - {fileID: -4481909250193788241, guid: 54d4c3e86c694194dab1854793c285cf, type: 3}
+  - {fileID: 2185940984551610105, guid: 54d4c3e86c694194dab1854793c285cf, type: 3}
+  - {fileID: 6910525408346192698, guid: 54d4c3e86c694194dab1854793c285cf, type: 3}
+  - {fileID: 4883005373224087084, guid: 54d4c3e86c694194dab1854793c285cf, type: 3}
+  - {fileID: 4106908490439878610, guid: 54d4c3e86c694194dab1854793c285cf, type: 3}
+  - {fileID: 900713103222120965, guid: 54d4c3e86c694194dab1854793c285cf, type: 3}
+  - {fileID: -5420033012125352056, guid: 54d4c3e86c694194dab1854793c285cf, type: 3}
+  - {fileID: -5468236843365822113, guid: 54d4c3e86c694194dab1854793c285cf, type: 3}
+  - {fileID: 1454072842908314869, guid: 54d4c3e86c694194dab1854793c285cf, type: 3}
+  - {fileID: -1750801167816908922, guid: 54d4c3e86c694194dab1854793c285cf, type: 3}
+  - {fileID: 6656923670295520329, guid: 54d4c3e86c694194dab1854793c285cf, type: 3}
+  - {fileID: -6559782771851689688, guid: 54d4c3e86c694194dab1854793c285cf, type: 3}
+  - {fileID: -4192056676606084543, guid: 54d4c3e86c694194dab1854793c285cf, type: 3}
+  - {fileID: -2946845660902635454, guid: 54d4c3e86c694194dab1854793c285cf, type: 3}
+  - {fileID: 654668853611462164, guid: 54d4c3e86c694194dab1854793c285cf, type: 3}
+  - {fileID: 6475125005560918810, guid: 54d4c3e86c694194dab1854793c285cf, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - sprite-sheet-147x94_9
+  - sprite-sheet-147x94_8
+  - sprite-sheet-147x94_3
+  - sprite-sheet-147x94_2
+  - sprite-sheet-147x94_1
+  - sprite-sheet-147x94_0
+  - sprite-sheet-147x94_7
+  - sprite-sheet-147x94_6
+  - sprite-sheet-147x94_5
+  - sprite-sheet-147x94_4
+  - sprite-sheet-147x94_18
+  - sprite-sheet-147x94_16
+  - sprite-sheet-147x94_17
+  - sprite-sheet-147x94_14
+  - sprite-sheet-147x94_15
+  - sprite-sheet-147x94_12
+  - sprite-sheet-147x94_13
+  - sprite-sheet-147x94_10
+  - sprite-sheet-147x94_11
+  m_Tag: SnakeAtlas
+  m_IsVariant: 0

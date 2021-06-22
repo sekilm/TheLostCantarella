@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: WizardAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 6a0adcf897a79ec4f8995fe8e0edc00b, type: 3}
+    totalSpriteSurfaceArea: 614376
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 5378854548316507764, guid: 6a0adcf897a79ec4f8995fe8e0edc00b, type: 3}
+  - {fileID: 2707675988109361695, guid: 6a0adcf897a79ec4f8995fe8e0edc00b, type: 3}
+  - {fileID: 3585342426557233416, guid: 6a0adcf897a79ec4f8995fe8e0edc00b, type: 3}
+  - {fileID: 7715124595326721940, guid: 6a0adcf897a79ec4f8995fe8e0edc00b, type: 3}
+  - {fileID: -8779464546110966204, guid: 6a0adcf897a79ec4f8995fe8e0edc00b, type: 3}
+  - {fileID: 8745417583502655796, guid: 6a0adcf897a79ec4f8995fe8e0edc00b, type: 3}
+  - {fileID: -9045740921488227298, guid: 6a0adcf897a79ec4f8995fe8e0edc00b, type: 3}
+  - {fileID: -6746764096318606874, guid: 6a0adcf897a79ec4f8995fe8e0edc00b, type: 3}
+  - {fileID: -763497463402431141, guid: 6a0adcf897a79ec4f8995fe8e0edc00b, type: 3}
+  - {fileID: 3650817528022999929, guid: 6a0adcf897a79ec4f8995fe8e0edc00b, type: 3}
+  - {fileID: 4451140414890538478, guid: 6a0adcf897a79ec4f8995fe8e0edc00b, type: 3}
+  - {fileID: 5553440703271875229, guid: 6a0adcf897a79ec4f8995fe8e0edc00b, type: 3}
+  - {fileID: 2331349177987836546, guid: 6a0adcf897a79ec4f8995fe8e0edc00b, type: 3}
+  - {fileID: 6436484303194034983, guid: 6a0adcf897a79ec4f8995fe8e0edc00b, type: 3}
+  - {fileID: -1235797699791217385, guid: 6a0adcf897a79ec4f8995fe8e0edc00b, type: 3}
+  - {fileID: 8896783981187092485, guid: 6a0adcf897a79ec4f8995fe8e0edc00b, type: 3}
+  - {fileID: 2964832087489008881, guid: 6a0adcf897a79ec4f8995fe8e0edc00b, type: 3}
+  - {fileID: -1193971261543307500, guid: 6a0adcf897a79ec4f8995fe8e0edc00b, type: 3}
+  - {fileID: -6619451821395634115, guid: 6a0adcf897a79ec4f8995fe8e0edc00b, type: 3}
+  - {fileID: -5391780157753376417, guid: 6a0adcf897a79ec4f8995fe8e0edc00b, type: 3}
+  - {fileID: 2672176744493756223, guid: 6a0adcf897a79ec4f8995fe8e0edc00b, type: 3}
+  - {fileID: -2079591203091258107, guid: 6a0adcf897a79ec4f8995fe8e0edc00b, type: 3}
+  - {fileID: -3503779657223492327, guid: 6a0adcf897a79ec4f8995fe8e0edc00b, type: 3}
+  - {fileID: 3415288094801245785, guid: 6a0adcf897a79ec4f8995fe8e0edc00b, type: 3}
+  - {fileID: -250667426630762646, guid: 6a0adcf897a79ec4f8995fe8e0edc00b, type: 3}
+  - {fileID: -7970546160514944870, guid: 6a0adcf897a79ec4f8995fe8e0edc00b, type: 3}
+  - {fileID: -8189936669799519466, guid: 6a0adcf897a79ec4f8995fe8e0edc00b, type: 3}
+  - {fileID: -1728442461504738259, guid: 6a0adcf897a79ec4f8995fe8e0edc00b, type: 3}
+  - {fileID: -3672514406327121686, guid: 6a0adcf897a79ec4f8995fe8e0edc00b, type: 3}
+  - {fileID: 8086065057094375210, guid: 6a0adcf897a79ec4f8995fe8e0edc00b, type: 3}
+  - {fileID: -1855684828951344414, guid: 6a0adcf897a79ec4f8995fe8e0edc00b, type: 3}
+  - {fileID: 8378626447203150498, guid: 6a0adcf897a79ec4f8995fe8e0edc00b, type: 3}
+  - {fileID: -5084897592397287958, guid: 6a0adcf897a79ec4f8995fe8e0edc00b, type: 3}
+  - {fileID: -3701863411724301217, guid: 6a0adcf897a79ec4f8995fe8e0edc00b, type: 3}
+  - {fileID: 8151941341125357939, guid: 6a0adcf897a79ec4f8995fe8e0edc00b, type: 3}
+  - {fileID: 8736926996935228706, guid: 6a0adcf897a79ec4f8995fe8e0edc00b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - sprite-sheet-161x106_21
+  - sprite-sheet-161x106_20
+  - sprite-sheet-161x106_23
+  - sprite-sheet-161x106_22
+  - sprite-sheet-161x106_25
+  - sprite-sheet-161x106_24
+  - sprite-sheet-161x106_27
+  - sprite-sheet-161x106_26
+  - sprite-sheet-161x106_29
+  - sprite-sheet-161x106_28
+  - sprite-sheet-161x106_18
+  - sprite-sheet-161x106_19
+  - sprite-sheet-161x106_10
+  - sprite-sheet-161x106_11
+  - sprite-sheet-161x106_12
+  - sprite-sheet-161x106_13
+  - sprite-sheet-161x106_14
+  - sprite-sheet-161x106_15
+  - sprite-sheet-161x106_16
+  - sprite-sheet-161x106_17
+  - sprite-sheet-161x106_34
+  - sprite-sheet-161x106_35
+  - sprite-sheet-161x106_32
+  - sprite-sheet-161x106_33
+  - sprite-sheet-161x106_30
+  - sprite-sheet-161x106_31
+  - sprite-sheet-161x106_9
+  - sprite-sheet-161x106_8
+  - sprite-sheet-161x106_1
+  - sprite-sheet-161x106_0
+  - sprite-sheet-161x106_3
+  - sprite-sheet-161x106_2
+  - sprite-sheet-161x106_5
+  - sprite-sheet-161x106_4
+  - sprite-sheet-161x106_7
+  - sprite-sheet-161x106_6
+  m_Tag: WizardAtlas
+  m_IsVariant: 0

@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DragonAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: be998fc210e5fab4a8adafc2d9ec44b4, type: 3}
+    totalSpriteSurfaceArea: 1186284
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -7938605279045261472, guid: be998fc210e5fab4a8adafc2d9ec44b4, type: 3}
+  - {fileID: 5628797969321976374, guid: be998fc210e5fab4a8adafc2d9ec44b4, type: 3}
+  - {fileID: -2839249316918304651, guid: be998fc210e5fab4a8adafc2d9ec44b4, type: 3}
+  - {fileID: -642093452218739564, guid: be998fc210e5fab4a8adafc2d9ec44b4, type: 3}
+  - {fileID: -7576037723443443274, guid: be998fc210e5fab4a8adafc2d9ec44b4, type: 3}
+  - {fileID: -2093134533183539013, guid: be998fc210e5fab4a8adafc2d9ec44b4, type: 3}
+  - {fileID: 2444062788807930434, guid: be998fc210e5fab4a8adafc2d9ec44b4, type: 3}
+  - {fileID: -1545727028860961407, guid: be998fc210e5fab4a8adafc2d9ec44b4, type: 3}
+  - {fileID: 1261813634568913897, guid: be998fc210e5fab4a8adafc2d9ec44b4, type: 3}
+  - {fileID: -2242994543475612536, guid: be998fc210e5fab4a8adafc2d9ec44b4, type: 3}
+  - {fileID: -2040844292791243574, guid: be998fc210e5fab4a8adafc2d9ec44b4, type: 3}
+  - {fileID: -4770083155589610985, guid: be998fc210e5fab4a8adafc2d9ec44b4, type: 3}
+  - {fileID: -7422842945606697538, guid: be998fc210e5fab4a8adafc2d9ec44b4, type: 3}
+  - {fileID: 5449783858625666106, guid: be998fc210e5fab4a8adafc2d9ec44b4, type: 3}
+  - {fileID: 7912536666833118615, guid: be998fc210e5fab4a8adafc2d9ec44b4, type: 3}
+  - {fileID: 2869187811888473520, guid: be998fc210e5fab4a8adafc2d9ec44b4, type: 3}
+  - {fileID: 6625553676446512882, guid: be998fc210e5fab4a8adafc2d9ec44b4, type: 3}
+  - {fileID: -4925881051987923221, guid: be998fc210e5fab4a8adafc2d9ec44b4, type: 3}
+  - {fileID: 8609126298595041011, guid: be998fc210e5fab4a8adafc2d9ec44b4, type: 3}
+  - {fileID: 4066365249701283566, guid: be998fc210e5fab4a8adafc2d9ec44b4, type: 3}
+  - {fileID: 8593986189364625012, guid: be998fc210e5fab4a8adafc2d9ec44b4, type: 3}
+  - {fileID: 965513533625339193, guid: be998fc210e5fab4a8adafc2d9ec44b4, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - sprite-sheet-258x209 - Copie_0
+  - sprite-sheet-258x209 - Copie_7
+  - sprite-sheet-258x209 - Copie_6
+  - sprite-sheet-258x209 - Copie_5
+  - sprite-sheet-258x209 - Copie_4
+  - sprite-sheet-258x209 - Copie_18
+  - sprite-sheet-258x209 - Copie_21
+  - sprite-sheet-258x209 - Copie_19
+  - sprite-sheet-258x209 - Copie_20
+  - sprite-sheet-258x209 - Copie_16
+  - sprite-sheet-258x209 - Copie_17
+  - sprite-sheet-258x209 - Copie_14
+  - sprite-sheet-258x209 - Copie_15
+  - sprite-sheet-258x209 - Copie_12
+  - sprite-sheet-258x209 - Copie_13
+  - sprite-sheet-258x209 - Copie_10
+  - sprite-sheet-258x209 - Copie_11
+  - sprite-sheet-258x209 - Copie_9
+  - sprite-sheet-258x209 - Copie_8
+  - sprite-sheet-258x209 - Copie_3
+  - sprite-sheet-258x209 - Copie_2
+  - sprite-sheet-258x209 - Copie_1
+  m_Tag: DragonAtlas
+  m_IsVariant: 0

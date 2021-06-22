@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SlimeAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: f7101190d376aa84783eaf0d4c65d971, type: 3}
+    totalSpriteSurfaceArea: 362088
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -3551947114636639207, guid: f7101190d376aa84783eaf0d4c65d971, type: 3}
+  - {fileID: 1812326456945914773, guid: f7101190d376aa84783eaf0d4c65d971, type: 3}
+  - {fileID: 6533964070653527153, guid: f7101190d376aa84783eaf0d4c65d971, type: 3}
+  - {fileID: 113155196784378219, guid: f7101190d376aa84783eaf0d4c65d971, type: 3}
+  - {fileID: -8192213529320879018, guid: f7101190d376aa84783eaf0d4c65d971, type: 3}
+  - {fileID: -2272166528851194744, guid: f7101190d376aa84783eaf0d4c65d971, type: 3}
+  - {fileID: 4761260942189337262, guid: f7101190d376aa84783eaf0d4c65d971, type: 3}
+  - {fileID: 792179683344916514, guid: f7101190d376aa84783eaf0d4c65d971, type: 3}
+  - {fileID: -3796056067722001953, guid: f7101190d376aa84783eaf0d4c65d971, type: 3}
+  - {fileID: 8966326792969247197, guid: f7101190d376aa84783eaf0d4c65d971, type: 3}
+  - {fileID: 4621775159123199857, guid: f7101190d376aa84783eaf0d4c65d971, type: 3}
+  - {fileID: -5246622754351268574, guid: f7101190d376aa84783eaf0d4c65d971, type: 3}
+  - {fileID: 5316255329466169734, guid: f7101190d376aa84783eaf0d4c65d971, type: 3}
+  - {fileID: 8974585973723621552, guid: f7101190d376aa84783eaf0d4c65d971, type: 3}
+  - {fileID: -5950430550234320462, guid: f7101190d376aa84783eaf0d4c65d971, type: 3}
+  - {fileID: 7569554305373901920, guid: f7101190d376aa84783eaf0d4c65d971, type: 3}
+  - {fileID: 6636314182005530793, guid: f7101190d376aa84783eaf0d4c65d971, type: 3}
+  - {fileID: 8926456701214929871, guid: f7101190d376aa84783eaf0d4c65d971, type: 3}
+  - {fileID: -13623439677741627, guid: f7101190d376aa84783eaf0d4c65d971, type: 3}
+  - {fileID: 4266585401355221368, guid: f7101190d376aa84783eaf0d4c65d971, type: 3}
+  - {fileID: 927450324883348502, guid: f7101190d376aa84783eaf0d4c65d971, type: 3}
+  - {fileID: 2447127366452199326, guid: f7101190d376aa84783eaf0d4c65d971, type: 3}
+  - {fileID: -5639374240412159537, guid: f7101190d376aa84783eaf0d4c65d971, type: 3}
+  - {fileID: 6843985400162626621, guid: f7101190d376aa84783eaf0d4c65d971, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - sprite-sheet-141x107_11
+  - sprite-sheet-141x107_10
+  - sprite-sheet-141x107_13
+  - sprite-sheet-141x107_12
+  - sprite-sheet-141x107_15
+  - sprite-sheet-141x107_14
+  - sprite-sheet-141x107_17
+  - sprite-sheet-141x107_16
+  - sprite-sheet-141x107_19
+  - sprite-sheet-141x107_18
+  - sprite-sheet-141x107_8
+  - sprite-sheet-141x107_9
+  - sprite-sheet-141x107_2
+  - sprite-sheet-141x107_3
+  - sprite-sheet-141x107_0
+  - sprite-sheet-141x107_1
+  - sprite-sheet-141x107_6
+  - sprite-sheet-141x107_7
+  - sprite-sheet-141x107_4
+  - sprite-sheet-141x107_5
+  - sprite-sheet-141x107_20
+  - sprite-sheet-141x107_21
+  - sprite-sheet-141x107_22
+  - sprite-sheet-141x107_23
+  m_Tag: SlimeAtlas
+  m_IsVariant: 0

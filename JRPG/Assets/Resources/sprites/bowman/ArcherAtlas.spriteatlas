@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ArcherAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+    totalSpriteSurfaceArea: 1257364
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -5527498000293629391, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: 8431547747865113625, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: 2124435889050299583, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: -8190097079485218821, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: -1038825084464512512, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: -317034313013631211, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: -7828118303737780451, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: -2415104715488341042, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: -1663243650537837785, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: 1016739177383254448, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: 77095785242938630, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: 4707981373930893109, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: -7248214811113738940, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: -7030856016109531482, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: -8252810566697612735, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: 4606834104351017886, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: 2528477395060631656, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: 4067077636920014381, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: -7270684854905178181, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: -8105797013208355928, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: 337775285162289396, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: 6420944282803087313, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: -7998366035842984561, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: 1270508142431766890, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: 1323394027119896035, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: 2431722189736878538, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: 9079594839271164502, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: 7246687119206352135, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: -2232744925521549080, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: -903216663937298397, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: 2340338113994340260, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: 7228659029789763061, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: 6812656217276663667, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: 7386510905113277190, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: 5441480958454764084, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: -6475315363776991357, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: -3177011032256620756, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: -3375243474589878988, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: -8235584099312181584, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: -2904273719170834742, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: -5112991006592862483, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: 2380885532221207535, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: -3922457895673078444, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: 54068952167488845, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: 8256613485528068060, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  - {fileID: -4298959081460268385, guid: 1722f1e559d5dae419578ce2b3b649a7, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - sprite-sheet-158x173_1
+  - sprite-sheet-158x173_0
+  - sprite-sheet-158x173_3
+  - sprite-sheet-158x173_2
+  - sprite-sheet-158x173_5
+  - sprite-sheet-158x173_4
+  - sprite-sheet-158x173_7
+  - sprite-sheet-158x173_6
+  - sprite-sheet-158x173_9
+  - sprite-sheet-158x173_8
+  - sprite-sheet-158x173_36
+  - sprite-sheet-158x173_37
+  - sprite-sheet-158x173_34
+  - sprite-sheet-158x173_35
+  - sprite-sheet-158x173_29
+  - sprite-sheet-158x173_32
+  - sprite-sheet-158x173_28
+  - sprite-sheet-158x173_33
+  - sprite-sheet-158x173_30
+  - sprite-sheet-158x173_31
+  - sprite-sheet-158x173_21
+  - sprite-sheet-158x173_20
+  - sprite-sheet-158x173_23
+  - sprite-sheet-158x173_38
+  - sprite-sheet-158x173_22
+  - sprite-sheet-158x173_39
+  - sprite-sheet-158x173_25
+  - sprite-sheet-158x173_24
+  - sprite-sheet-158x173_27
+  - sprite-sheet-158x173_26
+  - sprite-sheet-158x173_10
+  - sprite-sheet-158x173_11
+  - sprite-sheet-158x173_12
+  - sprite-sheet-158x173_13
+  - sprite-sheet-158x173_14
+  - sprite-sheet-158x173_15
+  - sprite-sheet-158x173_16
+  - sprite-sheet-158x173_17
+  - sprite-sheet-158x173_18
+  - sprite-sheet-158x173_19
+  - sprite-sheet-158x173_45
+  - sprite-sheet-158x173_44
+  - sprite-sheet-158x173_43
+  - sprite-sheet-158x173_42
+  - sprite-sheet-158x173_41
+  - sprite-sheet-158x173_40
+  m_Tag: ArcherAtlas
+  m_IsVariant: 0

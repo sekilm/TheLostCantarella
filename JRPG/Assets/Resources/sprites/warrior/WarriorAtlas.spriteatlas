@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: WarriorAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 7ab0e0a7bd8114a4ba46e0ad26ca1b04, type: 3}
+    totalSpriteSurfaceArea: 449280
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 8289882793517668037, guid: 7ab0e0a7bd8114a4ba46e0ad26ca1b04, type: 3}
+  - {fileID: 5028331865891781917, guid: 7ab0e0a7bd8114a4ba46e0ad26ca1b04, type: 3}
+  - {fileID: 8268806597056190744, guid: 7ab0e0a7bd8114a4ba46e0ad26ca1b04, type: 3}
+  - {fileID: 1193732757948607517, guid: 7ab0e0a7bd8114a4ba46e0ad26ca1b04, type: 3}
+  - {fileID: -3765092596063563671, guid: 7ab0e0a7bd8114a4ba46e0ad26ca1b04, type: 3}
+  - {fileID: -5404701427249901920, guid: 7ab0e0a7bd8114a4ba46e0ad26ca1b04, type: 3}
+  - {fileID: -3085731470964933072, guid: 7ab0e0a7bd8114a4ba46e0ad26ca1b04, type: 3}
+  - {fileID: 4558441282493303571, guid: 7ab0e0a7bd8114a4ba46e0ad26ca1b04, type: 3}
+  - {fileID: -1362752896306027112, guid: 7ab0e0a7bd8114a4ba46e0ad26ca1b04, type: 3}
+  - {fileID: -1311509178774604235, guid: 7ab0e0a7bd8114a4ba46e0ad26ca1b04, type: 3}
+  - {fileID: 7342454758516343504, guid: 7ab0e0a7bd8114a4ba46e0ad26ca1b04, type: 3}
+  - {fileID: -6536875307518275940, guid: 7ab0e0a7bd8114a4ba46e0ad26ca1b04, type: 3}
+  - {fileID: 4275447032279093049, guid: 7ab0e0a7bd8114a4ba46e0ad26ca1b04, type: 3}
+  - {fileID: 4224625515220728387, guid: 7ab0e0a7bd8114a4ba46e0ad26ca1b04, type: 3}
+  - {fileID: 6491379511288792425, guid: 7ab0e0a7bd8114a4ba46e0ad26ca1b04, type: 3}
+  - {fileID: 5235274906961507124, guid: 7ab0e0a7bd8114a4ba46e0ad26ca1b04, type: 3}
+  - {fileID: 4797688659733366422, guid: 7ab0e0a7bd8114a4ba46e0ad26ca1b04, type: 3}
+  - {fileID: 463643301057794321, guid: 7ab0e0a7bd8114a4ba46e0ad26ca1b04, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - sprite-sheet-240x104_16
+  - sprite-sheet-240x104_17
+  - sprite-sheet-240x104_14
+  - sprite-sheet-240x104_15
+  - sprite-sheet-240x104_12
+  - sprite-sheet-240x104_13
+  - sprite-sheet-240x104_10
+  - sprite-sheet-240x104_11
+  - sprite-sheet-240x104_9
+  - sprite-sheet-240x104_8
+  - sprite-sheet-240x104_3
+  - sprite-sheet-240x104_2
+  - sprite-sheet-240x104_1
+  - sprite-sheet-240x104_0
+  - sprite-sheet-240x104_7
+  - sprite-sheet-240x104_6
+  - sprite-sheet-240x104_5
+  - sprite-sheet-240x104_4
+  m_Tag: WarriorAtlas
+  m_IsVariant: 0
