@@ -1,3 +1,7 @@
-# TheLostCantarellav2
+# TheLostCantarella
 
-This is the final version of a small demo-like game that I made in Unity for my bachelor's degree
+  The purpose of this project was to make an interesting turn-based battle system with smart AI, while also having a twist to it. The game idea came simply from the passion that I have for video games. I took multiple games, that I have personally played, into consideration and decided that going for a turn-based battle system would meet my own expectations. It is heavily influenced by games like Final Fantasy when it comes to its battle system type, but also Child of Light for the way the characters get their turn to act in this battle system.
+
+  The main idea is that each character (or enemy) has a certain speed attribute, called "initiative" and this will act as a means to compute the acting turns. Also, for the AI to be smarter, and not just pick targets at random (which is how I initially started), I made a little bit of research into what is called "positive evaluation". The main idea here is to make each enemy look through each of the player's party members, and attack the best target. Although there is nothing complicated to it, it uses various attributes to make this evaluation such as attack, magic, defense, and magic defense, as well as health.
+
+  Another purpose - and an important difference from these types of games - is that enemies spawned throughout the encounters will be randomly generated, so each time the player faces an enemy, it can, and probably will be different. The chances for players to find themselves in two identical fights are not impossible, due to the lack of the enemy pool, but messing around with the number of enemies that are spawned within a fight helps when generating the enemies.
